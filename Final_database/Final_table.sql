@@ -1,6 +1,6 @@
 -- Creating final table for the analysis
 
-create table bazaFIN as (
+create table bazafin as (
 select 
 	cnt.countrycode,
  	cnt.shortname,
